@@ -1,0 +1,1 @@
+python yt_to_hindi.py "https://www.youtube.com/watch?v=8eb68_qqFHM&t=19s" --tts coqui --play
