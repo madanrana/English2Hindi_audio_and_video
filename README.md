@@ -59,4 +59,4 @@ Output: `lecture_translated.mp4` (Hindi)
 ---
 
 👨‍💻 Author: **Madan Singh**  
-📧 Contact: [Your email or LinkedIn here]
+📧 Contact: madanrana964@gmail.com
